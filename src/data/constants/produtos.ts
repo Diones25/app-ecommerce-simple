@@ -6,14 +6,14 @@ const produtos: Produto[] = [
     nome: 'Camiseta',
     descricao: 'Camiseta de algodão 100% com estampa exclusiva.',
     preco: 49.99,
-    imagem: 'https://images.unsplash.com/photo-1512412046877-7b5c00e60a88'
+    imagem: 'https://images.unsplash.com/photo-1581655353564-df123a1eb820'
   },
   {
     id: 2,
     nome: 'Calça Jeans',
     descricao: 'Calça jeans confortável e estilosa.',
     preco: 89.99,
-    imagem: 'https://images.unsplash.com/photo-1517669366364-4012441130d3'
+    imagem: 'https://images.unsplash.com/photo-1510734790177-c931e3956547'
   },
   {
     id: 3,
@@ -34,6 +34,8 @@ const produtos: Produto[] = [
     nome: 'Mochila',
     descricao: 'Mochila espaçosa com vários compartimentos.',
     preco: 79.99,
-    imagem: 'https://images.unsplash.com/photo-1505682634904-d7c5d8c53acb'
+    imagem: 'https://images.unsplash.com/photo-1480859786001-3f3bfdf20f2c'
   }
 ]
+
+export default produtos;
